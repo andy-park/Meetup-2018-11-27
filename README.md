@@ -14,3 +14,16 @@ Thanks to [BIS Labs](https://bsilabs.ca/) for sponsoring the food for this meetu
 
 ### Resources
 This repository is a fork of Dylan's [EDMUG-Mobile Example](https://github.com/dylanberry/EDMUG-Mobile).  To view and run the code you will need [Visual Studio](https://visualstudio.microsoft.com/) (community edition is free) or [Rider](https://www.jetbrains.com/rider/).  To compile to iOS device you will also need a Mac with Xcode installed.  More information about setting Xamarin can be found [here](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/installation).
+
+You can learn more about Google Flutter [here](https://flutter.io/).
+
+# Contributing to EDMUG
+
+Interested in helping build the EDMUG community?  Great, there are several ways you can help:
+
+- attend our [monthly meetups](https://www.meetup.com/Edmonton-NET-User-Group/).
+- open an [issue](https://github.com/edmug/Meetup-2018-11-27/issues) or [pull request](https://github.com/edmug/Meetup-2018-11-27/pulls) if you notice a bug or have a enhancement for this repository.
+- become a yearly sponsor or sponsor a specific meetup.
+- voluneter to present at an [upcoming meetup](https://www.meetup.com/Edmonton-NET-User-Group/events/233916054/).
+
+We can be reached on [GitHub](https://github.com/edmug), [Meetup](https://www.meetup.com/Edmonton-NET-User-Group/), [LinkedIn](https://www.linkedin.com/groups/667117/), Facebook(https://www.facebook.com/groups/2608240324), [Twitter](https://twitter.com/yegdotnet), or by old fashioned e-mail at [info@edmug.net].
