@@ -15,6 +15,8 @@ Thanks to [BIS Labs](https://bsilabs.ca/) for sponsoring the food for this meetu
 ### Resources
 This repository is a fork of Dylan's [EDMUG-Mobile Example](https://github.com/dylanberry/EDMUG-Mobile).  To view and run the code you will need [Visual Studio](https://visualstudio.microsoft.com/) (community edition is free) or [Rider](https://www.jetbrains.com/rider/).  To compile to iOS device you will also need a Mac with Xcode installed.  More information about setting Xamarin can be found [here](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/installation).
 
+Slides for the presentation can be found [here](BSI%20Labs%20-%20EDMUG%20-%20Mobile%20for%20dotnet.pdf).
+
 You can learn more about Google Flutter [here](https://flutter.io/).
 
 # Contributing to EDMUG
